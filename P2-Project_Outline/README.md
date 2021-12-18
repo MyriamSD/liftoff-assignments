@@ -31,5 +31,5 @@ Our group was interested in creating an inventory-style app to solve a problem t
 I'll need to learn more React for the front-end. I'll also need to learn basics of Java + how to pull from an API of tea varieties. I also don't know how to build a small game-engine, but I know that Austin said he can provide one to us that we can then modify.
 
 ### Project Tracker
-
+ 
 https://trello.com/b/NgPJV9ZC/liftoff-project-board
